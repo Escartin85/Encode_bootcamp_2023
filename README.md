@@ -34,13 +34,13 @@ A 5 week bootcamp to become an expert in Solidity and Ethereum EVM. Organized by
 
 ###### USEFULL LINKS
 
-[Online Solidity Compiler](https://ethervm.io/decompile)
-[Solidity Assembly Language](https://solidity-kr.readthedocs.io/ko/latest/assembly.html)
-[Huff Language](https://docs.huff.sh/)
-[EVM Codes](https://www.evm.codes/?fork=shanghai)
-[Solidity YUL Language](https://docs.soliditylang.org/en/latest/yul.html)
+- [Online Solidity Compiler](https://ethervm.io/decompile)
+- [Solidity Assembly Language](https://solidity-kr.readthedocs.io/ko/latest/assembly.html)
+- [Huff Language](https://docs.huff.sh/)
+- [EVM Codes](https://www.evm.codes/?fork=shanghai)
+- [Solidity YUL Language](https://docs.soliditylang.org/en/latest/yul.html)
 
 ###### TOOLS USED
 
-[Foundry](https://github.com/foundry-rs/foundry#installation)
-[Foundry Book](https://book.getfoundry.sh/getting-started/installation)
+- [Foundry](https://github.com/foundry-rs/foundry#installation)
+- [Foundry Book](https://book.getfoundry.sh/getting-started/installation)
